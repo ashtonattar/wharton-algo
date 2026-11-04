@@ -1,0 +1,12 @@
+# environment / caches
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+# generated caches and saved runs (rebuild with the scripts)
+*.pkl
+
+# downloaded market data (rebuild: build_us_universe.py, fetch_country_etfs.py)
+data_us/
+data/

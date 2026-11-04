@@ -1,0 +1,14 @@
+{
+  "settle": "2026-10-23",
+  "rf_usd": 0.0444,
+  "rf_gbp": null,
+  "rf_eur": null,
+  "recovery": 0.4,
+  "w_ret_per_dur": 0.4,
+  "w_ret": 0.3,
+  "w_roll": 0.15,
+  "w_default": 0.15,
+  "cut1": 3,
+  "cut2": 7,
+  "cut3": 10
+}

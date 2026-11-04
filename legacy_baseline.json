@@ -1,0 +1,662 @@
+{
+"funnel|lifecycle": {
+"funding_left": 11998.1321,
+"gift": 29624.2444,
+"reserve_left": 0.0,
+"value_2031": 490005.4992
+},
+"funnel|v2|growth|2008-10-31|mid": {
+"AAPL": 0.5,
+"EFA": 0.2,
+"IEF": 0.3
+},
+"funnel|v2|growth|2008-10-31|stub": {
+"AAPL": 0.3,
+"EFA": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"funnel|v2|growth|2013-12-31|mid": {
+"AAPL": 0.5,
+"EFA": 0.2,
+"IEF": 0.3
+},
+"funnel|v2|growth|2013-12-31|stub": {
+"AAPL": 0.3,
+"EFA": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"funnel|v2|growth|2020-03-31|mid": {
+"AAPL": 0.5,
+"EFA": 0.2,
+"IEF": 0.3
+},
+"funnel|v2|growth|2020-03-31|stub": {
+"AAPL": 0.3,
+"EFA": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"funnel|v2|post_gift|2008-10-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35
+},
+"funnel|v2|post_gift|2008-10-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"funnel|v2|post_gift|2013-12-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35
+},
+"funnel|v2|post_gift|2013-12-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"funnel|v2|post_gift|2020-03-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35
+},
+"funnel|v2|post_gift|2020-03-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"funnel|v2|pre_gift_y5|2008-10-31|mid": {
+"AAPL": 0.475,
+"CASH": 0.275,
+"IEF": 0.25
+},
+"funnel|v2|pre_gift_y5|2008-10-31|stub": {
+"AAPL": 0.285,
+"CASH": 0.275,
+"IEF": 0.25,
+"MSFT": 0.19
+},
+"funnel|v2|pre_gift_y5|2013-12-31|mid": {
+"AAPL": 0.475,
+"CASH": 0.275,
+"IEF": 0.25
+},
+"funnel|v2|pre_gift_y5|2013-12-31|stub": {
+"AAPL": 0.285,
+"CASH": 0.275,
+"IEF": 0.25,
+"MSFT": 0.19
+},
+"funnel|v2|pre_gift_y5|2020-03-31|mid": {
+"AAPL": 0.475,
+"CASH": 0.275,
+"IEF": 0.25
+},
+"funnel|v2|pre_gift_y5|2020-03-31|stub": {
+"AAPL": 0.285,
+"CASH": 0.275,
+"IEF": 0.25,
+"MSFT": 0.19
+},
+"funnel|v2|pre_gift|2008-10-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.2,
+"IEF": 0.35
+},
+"funnel|v2|pre_gift|2008-10-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.2,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"funnel|v2|pre_gift|2013-12-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.2,
+"IEF": 0.35
+},
+"funnel|v2|pre_gift|2013-12-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.2,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"funnel|v2|pre_gift|2020-03-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.2,
+"IEF": 0.35
+},
+"funnel|v2|pre_gift|2020-03-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.2,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"funnel|v2|reserve|2008-10-31|mid": {
+"AAPL": 0.5,
+"CASH": 0.2,
+"IEF": 0.3
+},
+"funnel|v2|reserve|2008-10-31|stub": {
+"AAPL": 0.3,
+"CASH": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"funnel|v2|reserve|2013-12-31|mid": {
+"AAPL": 0.5,
+"CASH": 0.2,
+"IEF": 0.3
+},
+"funnel|v2|reserve|2013-12-31|stub": {
+"AAPL": 0.3,
+"CASH": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"funnel|v2|reserve|2020-03-31|mid": {
+"AAPL": 0.5,
+"CASH": 0.2,
+"IEF": 0.3
+},
+"funnel|v2|reserve|2020-03-31|stub": {
+"AAPL": 0.3,
+"CASH": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"funnel|v3|growth|2008-10-31|mid": {
+"CASH": 0.7,
+"IEF": 0.3
+},
+"funnel|v3|growth|2008-10-31|stub": {
+"CASH": 0.7,
+"IEF": 0.3
+},
+"funnel|v3|growth|2013-12-31|mid": {
+"AAPL": 0.714285714286,
+"EFA": 0.285714285714
+},
+"funnel|v3|growth|2013-12-31|stub": {
+"AAPL": 0.3,
+"EFA": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"funnel|v3|growth|2020-03-31|mid": {
+"CASH": 0.7,
+"IEF": 0.3
+},
+"funnel|v3|growth|2020-03-31|stub": {
+"CASH": 0.7,
+"IEF": 0.3
+},
+"funnel|v3|post_gift|2008-10-31|mid": {
+"CASH": 0.65,
+"IEF": 0.35
+},
+"funnel|v3|post_gift|2008-10-31|stub": {
+"CASH": 0.65,
+"IEF": 0.35
+},
+"funnel|v3|post_gift|2013-12-31|mid": {
+"AAPL": 0.7125,
+"CASH": 0.05,
+"EFA": 0.2375
+},
+"funnel|v3|post_gift|2013-12-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"funnel|v3|post_gift|2020-03-31|mid": {
+"CASH": 0.65,
+"IEF": 0.35
+},
+"funnel|v3|post_gift|2020-03-31|stub": {
+"CASH": 0.65,
+"IEF": 0.35
+},
+"funnel|v3|pre_gift_y5|2008-10-31|mid": {
+"AAPL": 0.475,
+"CASH": 0.275,
+"IEF": 0.25
+},
+"funnel|v3|pre_gift_y5|2008-10-31|stub": {
+"AAPL": 0.285,
+"CASH": 0.275,
+"IEF": 0.25,
+"MSFT": 0.19
+},
+"funnel|v3|pre_gift_y5|2013-12-31|mid": {
+"AAPL": 0.475,
+"CASH": 0.275,
+"IEF": 0.25
+},
+"funnel|v3|pre_gift_y5|2013-12-31|stub": {
+"AAPL": 0.285,
+"CASH": 0.275,
+"IEF": 0.25,
+"MSFT": 0.19
+},
+"funnel|v3|pre_gift_y5|2020-03-31|mid": {
+"AAPL": 0.475,
+"CASH": 0.275,
+"IEF": 0.25
+},
+"funnel|v3|pre_gift_y5|2020-03-31|stub": {
+"AAPL": 0.285,
+"CASH": 0.275,
+"IEF": 0.25,
+"MSFT": 0.19
+},
+"funnel|v3|pre_gift|2008-10-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.2,
+"IEF": 0.35
+},
+"funnel|v3|pre_gift|2008-10-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.2,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"funnel|v3|pre_gift|2013-12-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.2,
+"IEF": 0.35
+},
+"funnel|v3|pre_gift|2013-12-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.2,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"funnel|v3|pre_gift|2020-03-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.2,
+"IEF": 0.35
+},
+"funnel|v3|pre_gift|2020-03-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.2,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"funnel|v3|reserve|2008-10-31|mid": {
+"AAPL": 0.5,
+"CASH": 0.2,
+"IEF": 0.3
+},
+"funnel|v3|reserve|2008-10-31|stub": {
+"AAPL": 0.3,
+"CASH": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"funnel|v3|reserve|2013-12-31|mid": {
+"AAPL": 0.5,
+"CASH": 0.2,
+"IEF": 0.3
+},
+"funnel|v3|reserve|2013-12-31|stub": {
+"AAPL": 0.3,
+"CASH": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"funnel|v3|reserve|2020-03-31|mid": {
+"AAPL": 0.5,
+"CASH": 0.2,
+"IEF": 0.3
+},
+"funnel|v3|reserve|2020-03-31|stub": {
+"AAPL": 0.3,
+"CASH": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"index|lifecycle": {
+"funding_left": 11998.1321,
+"gift": 29624.2444,
+"reserve_left": 0.0,
+"value_2031": 490005.4992
+},
+"index|v2|growth|2008-10-31|mid": {
+"AAPL": 0.5,
+"EFA": 0.2,
+"IEF": 0.3
+},
+"index|v2|growth|2008-10-31|stub": {
+"AAPL": 0.3,
+"EFA": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"index|v2|growth|2013-12-31|mid": {
+"AAPL": 0.5,
+"EFA": 0.2,
+"IEF": 0.3
+},
+"index|v2|growth|2013-12-31|stub": {
+"AAPL": 0.3,
+"EFA": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"index|v2|growth|2020-03-31|mid": {
+"AAPL": 0.5,
+"EFA": 0.2,
+"IEF": 0.3
+},
+"index|v2|growth|2020-03-31|stub": {
+"AAPL": 0.3,
+"EFA": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"index|v2|post_gift|2008-10-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35
+},
+"index|v2|post_gift|2008-10-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"index|v2|post_gift|2013-12-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35
+},
+"index|v2|post_gift|2013-12-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"index|v2|post_gift|2020-03-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35
+},
+"index|v2|post_gift|2020-03-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"index|v2|pre_gift_y5|2008-10-31|mid": {
+"AAPL": 0.475,
+"CASH": 0.275,
+"IEF": 0.25
+},
+"index|v2|pre_gift_y5|2008-10-31|stub": {
+"AAPL": 0.285,
+"CASH": 0.275,
+"IEF": 0.25,
+"MSFT": 0.19
+},
+"index|v2|pre_gift_y5|2013-12-31|mid": {
+"AAPL": 0.475,
+"CASH": 0.275,
+"IEF": 0.25
+},
+"index|v2|pre_gift_y5|2013-12-31|stub": {
+"AAPL": 0.285,
+"CASH": 0.275,
+"IEF": 0.25,
+"MSFT": 0.19
+},
+"index|v2|pre_gift_y5|2020-03-31|mid": {
+"AAPL": 0.475,
+"CASH": 0.275,
+"IEF": 0.25
+},
+"index|v2|pre_gift_y5|2020-03-31|stub": {
+"AAPL": 0.285,
+"CASH": 0.275,
+"IEF": 0.25,
+"MSFT": 0.19
+},
+"index|v2|pre_gift|2008-10-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.2,
+"IEF": 0.35
+},
+"index|v2|pre_gift|2008-10-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.2,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"index|v2|pre_gift|2013-12-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.2,
+"IEF": 0.35
+},
+"index|v2|pre_gift|2013-12-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.2,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"index|v2|pre_gift|2020-03-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.2,
+"IEF": 0.35
+},
+"index|v2|pre_gift|2020-03-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.2,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"index|v2|reserve|2008-10-31|mid": {
+"AAPL": 0.5,
+"CASH": 0.2,
+"IEF": 0.3
+},
+"index|v2|reserve|2008-10-31|stub": {
+"AAPL": 0.3,
+"CASH": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"index|v2|reserve|2013-12-31|mid": {
+"AAPL": 0.5,
+"CASH": 0.2,
+"IEF": 0.3
+},
+"index|v2|reserve|2013-12-31|stub": {
+"AAPL": 0.3,
+"CASH": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"index|v2|reserve|2020-03-31|mid": {
+"AAPL": 0.5,
+"CASH": 0.2,
+"IEF": 0.3
+},
+"index|v2|reserve|2020-03-31|stub": {
+"AAPL": 0.3,
+"CASH": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"index|v3|growth|2008-10-31|mid": {
+"CASH": 0.7,
+"IEF": 0.3
+},
+"index|v3|growth|2008-10-31|stub": {
+"CASH": 0.7,
+"IEF": 0.3
+},
+"index|v3|growth|2013-12-31|mid": {
+"AAPL": 0.714285714286,
+"EFA": 0.285714285714
+},
+"index|v3|growth|2013-12-31|stub": {
+"AAPL": 0.3,
+"EFA": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"index|v3|growth|2020-03-31|mid": {
+"CASH": 0.7,
+"IEF": 0.3
+},
+"index|v3|growth|2020-03-31|stub": {
+"CASH": 0.7,
+"IEF": 0.3
+},
+"index|v3|post_gift|2008-10-31|mid": {
+"CASH": 0.65,
+"IEF": 0.35
+},
+"index|v3|post_gift|2008-10-31|stub": {
+"CASH": 0.65,
+"IEF": 0.35
+},
+"index|v3|post_gift|2013-12-31|mid": {
+"AAPL": 0.7125,
+"CASH": 0.05,
+"EFA": 0.2375
+},
+"index|v3|post_gift|2013-12-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.05,
+"EFA": 0.15,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"index|v3|post_gift|2020-03-31|mid": {
+"CASH": 0.65,
+"IEF": 0.35
+},
+"index|v3|post_gift|2020-03-31|stub": {
+"CASH": 0.65,
+"IEF": 0.35
+},
+"index|v3|pre_gift_y5|2008-10-31|mid": {
+"AAPL": 0.475,
+"CASH": 0.275,
+"IEF": 0.25
+},
+"index|v3|pre_gift_y5|2008-10-31|stub": {
+"AAPL": 0.285,
+"CASH": 0.275,
+"IEF": 0.25,
+"MSFT": 0.19
+},
+"index|v3|pre_gift_y5|2013-12-31|mid": {
+"AAPL": 0.475,
+"CASH": 0.275,
+"IEF": 0.25
+},
+"index|v3|pre_gift_y5|2013-12-31|stub": {
+"AAPL": 0.285,
+"CASH": 0.275,
+"IEF": 0.25,
+"MSFT": 0.19
+},
+"index|v3|pre_gift_y5|2020-03-31|mid": {
+"AAPL": 0.475,
+"CASH": 0.275,
+"IEF": 0.25
+},
+"index|v3|pre_gift_y5|2020-03-31|stub": {
+"AAPL": 0.285,
+"CASH": 0.275,
+"IEF": 0.25,
+"MSFT": 0.19
+},
+"index|v3|pre_gift|2008-10-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.2,
+"IEF": 0.35
+},
+"index|v3|pre_gift|2008-10-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.2,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"index|v3|pre_gift|2013-12-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.2,
+"IEF": 0.35
+},
+"index|v3|pre_gift|2013-12-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.2,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"index|v3|pre_gift|2020-03-31|mid": {
+"AAPL": 0.45,
+"CASH": 0.2,
+"IEF": 0.35
+},
+"index|v3|pre_gift|2020-03-31|stub": {
+"AAPL": 0.27,
+"CASH": 0.2,
+"IEF": 0.35,
+"MSFT": 0.18
+},
+"index|v3|reserve|2008-10-31|mid": {
+"AAPL": 0.5,
+"CASH": 0.2,
+"IEF": 0.3
+},
+"index|v3|reserve|2008-10-31|stub": {
+"AAPL": 0.3,
+"CASH": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"index|v3|reserve|2013-12-31|mid": {
+"AAPL": 0.5,
+"CASH": 0.2,
+"IEF": 0.3
+},
+"index|v3|reserve|2013-12-31|stub": {
+"AAPL": 0.3,
+"CASH": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+},
+"index|v3|reserve|2020-03-31|mid": {
+"AAPL": 0.5,
+"CASH": 0.2,
+"IEF": 0.3
+},
+"index|v3|reserve|2020-03-31|stub": {
+"AAPL": 0.3,
+"CASH": 0.2,
+"IEF": 0.3,
+"MSFT": 0.2
+}
+}

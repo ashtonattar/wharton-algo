@@ -1,0 +1,101 @@
+ticker,name,issuer,target_country,market_tracking,notes,expense_ratio,geo_focus,asset_class
+ARKK,ARK INNOVATION ETF,ARK Invest,United States,N,US fund (never in the foreign sleeve); actively managed; factor/thematic name: innovation,0.75,United States,Equity
+GRID,FIRST TRST NASD CL EDG SGIIF,First Trust,,N,multi-country/regional; thematic fund,0.7,Global,Equity
+FAN,FIRST TRUST GLOBAL WIND ENER,First Trust,,N,multi-country/regional; energy fund,0.6,Global,Equity
+PAVE,GLOBAL X US INFRASTRUCTURE,Global X,United States,N,US fund (never in the foreign sleeve); thematic fund; factor/thematic name: infrastructure,0.47,United States,Equity
+TAN,INVESCO SOLAR ETF,Invesco,,N,multi-country/regional; energy fund,0.66,Global,Equity
+PHO,INVESCO WATER RESOURCES ETF,Invesco,United States,N,US fund (never in the foreign sleeve); thematic fund,0.6,United States,Equity
+PBW,INVESCO WILDERHILL CLEAN ENE,Invesco,United States,N,US fund (never in the foreign sleeve); thematic fund,0.62,United States,Equity
+IBB,ISHARES BIOTECHNOLOGY ETF,iShares,United States,N,US fund (never in the foreign sleeve); health care fund,0.44,United States,Equity
+DGRO,ISHARES CORE DIVIDEND GROWTH,iShares,United States,N,"US fund (never in the foreign sleeve); factor/thematic name: dividend, growth",0.08,United States,Equity
+ESGU,ISHARES ESG AWARE MSCI USA,iShares,United States,N,US fund (never in the foreign sleeve); factor/thematic name: esg,0.15,United States,Equity
+ICLN,ISHARES GLOBAL CLEAN ENERGY,iShares,,N,multi-country/regional; energy fund,0.4,Global,Equity
+INDA,ISHARES MSCI INDIA ETF,iShares,India,Y,"CHECK: tagged broad-market, confirm it is a plain country index",0.68,India,Equity
+EWW,ISHARES MSCI MEXICO ETF,iShares,Mexico,Y,"CHECK: tagged broad-market, confirm it is a plain country index",0.5,Mexico,Equity
+EWT,ISHARES MSCI TAIWAN ETF,iShares,Taiwan,Y,"CHECK: tagged broad-market, confirm it is a plain country index",0.58,Taiwan,Equity
+ITA,ISHARES U.S. AEROSPACE & DEF,iShares,United States,N,US fund (never in the foreign sleeve); industrials fund,0.39,United States,Equity
+BBCA,JPMORGAN BETABUILDERS CANADA,JPMorgan,Canada,Y,"CHECK: tagged broad-market, confirm it is a plain country index",0.19,Canada,Equity
+XLU,UTILITIES SELECT SECTOR SPDR FUND,State Street SPDR,United States,N,US fund (never in the foreign sleeve); utilities fund,0.1,United States,Equity
+ESGV,VANGUARD ESG US STOCK ETF,Vanguard,United States,N,US fund (never in the foreign sleeve); factor/thematic name: esg,0.09,United States,Equity
+VWO,VANGUARD FTSE EMERGING MARKE,Vanguard,,N,multi-country/regional,0.08,International,Equity
+VHT,VANGUARD HEALTH CARE ETF,Vanguard,United States,N,US fund (never in the foreign sleeve); health care fund,0.1,United States,Equity
+VNQ,VANGUARD REAL ESTATE ETF,Vanguard,United States,N,US fund (never in the foreign sleeve); real estate fund,0.12,United States,Equity
+VTI,VANGUARD TOTAL STOCK MKT ETF,Vanguard,United States,N,US fund (never in the foreign sleeve),0.03,United States,Equity
+VT,VANGUARD TOTAL WORLD STOCK ETF,Vanguard,,N,multi-country/regional,0.06,International,Equity
+VSS,VANGUARD FTSE ALL-WORLD EX-US SMALL CAP ETF,Vanguard,,N,multi-country/regional; factor/thematic name: small,0.08,International,Equity
+VNQI,VANGUARD GLOBAL EX-US REAL ESTATE ETF,Vanguard,,N,multi-country/regional; real estate fund,0.12,International,Equity
+MSOS,ADVISORSHARES PURE US CANN,AdvisorShares,United States,N,US fund (never in the foreign sleeve); actively managed; thematic fund; growth style,0.74,United States,Equity
+IPO,RENAISSANCE IPO ETF,Renaissance,United States,N,US fund (never in the foreign sleeve); thematic fund; growth style; factor/thematic name: ipo,0.6,United States,Equity
+JEPI,JPMORGAN EQUITY PREMIUM INCO,JPMorgan,United States,N,US fund (never in the foreign sleeve); actively managed; value style; factor/thematic name: premium inco,0.35,United States,Equity
+COWZ,PACER US CASH COWS 100 ETF,Pacer,United States,N,US fund (never in the foreign sleeve); value style; factor/thematic name: cash cows,0.49,United States,Equity
+LCTU,BLACKROCK US CARBON TR READ,BlackRock,United States,N,US fund (never in the foreign sleeve); actively managed; factor/thematic name: carbon,0.3,United States,Equity
+XLC,COMM SERV SELECT SECTOR SPDR,State Street SPDR,United States,N,US fund (never in the foreign sleeve); communications fund,0.1,United States,Equity
+XLP,CONSUMER STAPLES SPDR,State Street SPDR,United States,N,US fund (never in the foreign sleeve); consumer staples fund,0.1,United States,Equity
+XLE,ENERGY SELECT SECTOR SPDR,State Street SPDR,United States,N,US fund (never in the foreign sleeve); energy fund,0.1,United States,Equity
+XLF,FINANCIAL SELECT SECTOR SPDR,State Street SPDR,United States,N,US fund (never in the foreign sleeve); financial fund,0.1,United States,Equity
+XLV,HEALTH CARE SELECT SECTOR,State Street SPDR,United States,N,US fund (never in the foreign sleeve); health care fund,0.1,United States,Equity
+XLI,INDUSTRIAL SELECT SECT SPDR,State Street SPDR,United States,N,US fund (never in the foreign sleeve); industrials fund,0.1,United States,Equity
+RSP,INVESCO S&P 500 EQUAL WEIGHT,Invesco,United States,N,US fund (never in the foreign sleeve); factor/thematic name: equal weight,0.2,United States,Equity
+ESGE,ISHARES INC ISHARES ESG AWAR,iShares,,N,multi-country/regional; factor/thematic name: esg,0.25,International,Equity
+EWA,ISHARES MSCI AUSTRALIA ETF,iShares,Australia,Y,,0.5,Australia,Equity
+EWZ,ISHARES MSCI BRAZIL ETF,iShares,Brazil,Y,,0.58,Brazil,Equity
+MCHI,ISHARES MSCI CHINA ETF,iShares,China,Y,,0.58,China,Equity
+DSI,ISHARES MSCI KLD 400 SOCIAL,iShares,United States,N,US fund (never in the foreign sleeve); thematic fund; factor/thematic name: social,0.25,United States,Equity
+USMV,ISHARES MSCI USA MIN VOL FAC,iShares,United States,N,US fund (never in the foreign sleeve); factor/thematic name: min vol,0.15,United States,Equity
+QUAL,ISHARES MSCI USA QUALITY FAC,iShares,United States,N,US fund (never in the foreign sleeve); factor/thematic name: quality,0.15,United States,Equity
+ESGD,ISHARES TRUST ISHARES ESG AW,iShares,,N,multi-country/regional; factor/thematic name: esg,0.2,International,Equity
+MOAT,VANECK MORNINGSTAR WIDE MOAT,VanEck,United States,N,US fund (never in the foreign sleeve); factor/thematic name: moat,0.46,United States,Equity
+VEU,VANGUARD FTSE ALL-WORLD EX-U,Vanguard,,N,multi-country/regional,0.08,International,Equity
+VEA,VANGUARD FTSE DEVELOPED ETF,Vanguard,,N,multi-country/regional,0.05,International,Equity
+VGK,VANGUARD FTSE EUROPE ETF,Vanguard,,N,multi-country/regional,0.11,European Region,Equity
+VOO,VANGUARD S&P 500 ETF,Vanguard,United States,N,US fund (never in the foreign sleeve),0.03,United States,Equity
+VXUS,VANGUARD TOTAL INTL STOCK,Vanguard,,N,multi-country/regional,0.07,International,Equity
+XLB,MATERIALS SELECT SECTOR SPDR,State Street SPDR,United States,N,US fund (never in the foreign sleeve); materials fund,0.08,United States,Equity
+XLY,CONSUMER DISCRETIONARY SELT,Unknown,United States,N,US fund (never in the foreign sleeve); consumer discretionary fund; growth style,0.1,United States,Equity
+QQQ,INVESCO QQQ TRUST SERIES 1,Invesco,United States,N,US fund (never in the foreign sleeve); growth style,0.2,United States,Equity
+MTUM,ISHARES MSCI USA MOMENTUM FA,iShares,United States,N,US fund (never in the foreign sleeve); growth style; factor/thematic name: momentum,0.15,United States,Equity
+IWF,ISHARES RUSSELL 1000 GROWTH,iShares,United States,N,US fund (never in the foreign sleeve); growth style; factor/thematic name: growth,0.18,United States,Equity
+XLK,TECHNOLOGY SELECT SECT SPDR,State Street SPDR,United States,N,US fund (never in the foreign sleeve); technology fund; growth style,0.1,United States,Equity
+SMH,VANECK SEMICONDUCTOR ETF,VanEck,United States,N,US fund (never in the foreign sleeve); technology fund; growth style,0.35,United States,Equity
+VUG,VANGUARD GROWTH ETF,Vanguard,United States,N,US fund (never in the foreign sleeve); growth style; factor/thematic name: growth,0.04,United States,Equity
+VGT,VANGUARD INFO TECH ETF,Vanguard,United States,N,US fund (never in the foreign sleeve); technology fund; growth style,0.1,United States,Equity
+IWD,ISHARES RUSSELL 1000 VALUE E,iShares,United States,N,US fund (never in the foreign sleeve); value style; factor/thematic name: value,0.18,United States,Equity
+NOBL,PROSHARES S&P 500 DIVIDEND A,ProShares,United States,N,US fund (never in the foreign sleeve); value style; factor/thematic name: dividend,0.35,United States,Equity
+SCHD,SCHWAB US DVD EQUITY ETF,Schwab,United States,N,US fund (never in the foreign sleeve); value style; factor/thematic name: dvd,0.06,United States,Equity
+VIG,VANGUARD DIVIDEND APPREC ETF,Vanguard,United States,N,US fund (never in the foreign sleeve); value style; factor/thematic name: dividend,0.06,United States,Equity
+VYM,VANGUARD HIGH DVD YIELD ETF,Vanguard,United States,N,US fund (never in the foreign sleeve); value style; factor/thematic name: dvd,0.06,United States,Equity
+VTV,VANGUARD VALUE ETF,Vanguard,United States,N,US fund (never in the foreign sleeve); value style; factor/thematic name: value,0.04,United States,Equity
+IJH,ISHARES CORE S&P MIDCAP ETF,iShares,United States,N,US fund (never in the foreign sleeve); mid-cap only,0.05,United States,Equity
+VO,VANGUARD MID-CAP ETF,Vanguard,United States,N,US fund (never in the foreign sleeve); mid-cap only; factor/thematic name: mid-cap,0.04,United States,Equity
+IJR,ISHARES CORE S&P SMALL-CAP E,iShares,United States,N,US fund (never in the foreign sleeve); small-cap only; factor/thematic name: small,0.06,United States,Equity
+IWM,ISHARES RUSSELL 2000 ETF,iShares,United States,N,US fund (never in the foreign sleeve); small-cap only,0.19,United States,Equity
+AVUV,AVANTIS US SMALL CAP VALUE,Avantis,United States,N,"US fund (never in the foreign sleeve); actively managed; small-cap only; value style; factor/thematic name: value, small",0.25,United States,Equity
+AGG,ISHARES CORE U.S. AGGREGATE,iShares,,N,bond fund,0.03,United States,Fixed Income
+JPST,JPMORGAN ULTRA-SHORT INCOME,JPMorgan,,N,bond fund,0.18,Global,Fixed Income
+BSV,VANGUARD SHORT-TERM BOND ETF,Vanguard,,N,bond fund,0.04,United States,Fixed Income
+BND,VANGUARD TOTAL BOND MARKET,Vanguard,,N,bond fund,0.03,United States,Fixed Income
+BNDX,VANGUARD TOTAL INTL BOND ETF,Vanguard,,N,bond fund,0.07,International,Fixed Income
+FTSL,FIRST TRUST SENIOR LOAN FUND,First Trust,,N,bond fund,0.87,Global,Fixed Income
+HYLS,FIRST TRUST TACTICAL HIGH YIELD ETF,First Trust,,N,bond fund,1.02,Global,Fixed Income
+IGSB,ISHARES 1-5Y INV GRADE CORP,iShares,,N,bond fund,0.04,United States,Fixed Income
+FALN,ISHARES FALLEN ANGELS USD BOND ETF,iShares,,N,bond fund,0.25,United States,Fixed Income
+HYG,ISHARES IBOXX HIGH YLD CORP,iShares,,N,bond fund,0.48,United States,Fixed Income
+LQD,ISHARES IBOXX INVESTMENT GRA,iShares,,N,bond fund,0.14,United States,Fixed Income
+JNK,SPDR BLOOMBERG HIGH YIELD BOND ETF,State Street SPDR,,N,bond fund,0.4,United States,Fixed Income
+VCIT,VANGUARD INT-TERM CORPORATE,Vanguard,,N,bond fund,0.04,United States,Fixed Income
+VCSH,VANGUARD S/T CORP BOND ETF,Vanguard,,N,bond fund,0.04,United States,Fixed Income
+SHY,ISHARES 1-3 YEAR TREASURY BO,iShares,,N,bond fund,0.15,United States,Fixed Income
+TLT,ISHARES 20+ YEAR TREASURY BO,iShares,,N,bond fund,0.15,United States,Fixed Income
+IEF,ISHARES 7-10 YEAR TREASURY B,iShares,,N,bond fund,0.15,United States,Fixed Income
+EMB,ISHARES JP MORGAN USD EMERGI,iShares,,N,bond fund,0.39,International,Fixed Income
+SHV,ISHARES SHORT TREASURY BOND,iShares,,N,bond fund,0.15,United States,Fixed Income
+GOVT,ISHARES US TREASURY BOND ETF,iShares,,N,bond fund,0.05,United States,Fixed Income
+BIL,SPDR BLOOMBERG 1-3 MONTH T-B,State Street SPDR,,N,bond fund,0.135,United States,Fixed Income
+VGSH,VANGUARD SHORT-TERM TREASURY,Vanguard,,N,bond fund,0.04,United States,Fixed Income
+USFR,WISDOMTREE FLOATING RATE TREASURY FUND,WisdomTree,,N,bond fund,0.15,United States,Fixed Income
+EMLC,VANECK JP MORGAN EM LOCAL CURRENCY BOND ETF,VanEck,,N,bond fund,0.3,International,Fixed Income
+VTIP,VANGUARD SHORT-TERM INFLATION-PROTECTED SECURITIES ETF,Vanguard,,N,bond fund,0.03,United States,Fixed Income
+TIP,ISHARES TIPS BOND ETF,iShares,,N,bond fund,0.19,United States,Fixed Income
+MBB,ISHARES MBS ETF,iShares,,N,bond fund,0.04,United States,Fixed Income
+MUB,ISHARES NATIONAL MUNI BOND E,iShares,,N,bond fund,0.07,United States,Fixed Income
+VTEB,VANGUARD TAX-EXEMPT BOND ETF,Vanguard,,N,bond fund,0.05,United States,Fixed Income
